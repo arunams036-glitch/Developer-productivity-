@@ -15,3 +15,5 @@ TypeScript
 
 🔗 Live Demo
 https://codeclarity-develope-fe3u.bolt.host/[](url)
+👤Author
+M.S.Aruna
